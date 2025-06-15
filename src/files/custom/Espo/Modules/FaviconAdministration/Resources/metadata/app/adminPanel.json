@@ -1,0 +1,12 @@
+{
+    "system": {
+        "itemList": [
+            {
+                "iconClass": "fas fa-desktop",
+                "label": "Alfred's settings",
+                "recordView": "favicon-administration:views/admin/alfred-settings",
+                "url": "#Admin/alfredSettings"
+            }
+        ]
+    }
+}
