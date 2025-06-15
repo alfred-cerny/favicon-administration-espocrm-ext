@@ -1,3 +1,4 @@
 {
-    "favicon": "client/custom/modules/favicon-administration/img/favicon.ico"
+    "favicon": "client/custom/modules/favicon-administration/img/favicon.ico",
+    "faviconAlternate": "client/custom/modules/favicon-administration/img/favicon.ico"
 }
