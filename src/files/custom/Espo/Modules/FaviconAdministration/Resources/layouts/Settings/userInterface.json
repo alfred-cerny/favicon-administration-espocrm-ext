@@ -1,0 +1,15 @@
+[
+    "__APPEND__",
+    {
+        "tabBreak": true,
+        "tabLabel": "$label:Alfred customs",
+        "rows": [
+            [
+                {
+                    "name": "companyFavicon"
+                },
+                false
+            ]
+        ]
+    }
+]

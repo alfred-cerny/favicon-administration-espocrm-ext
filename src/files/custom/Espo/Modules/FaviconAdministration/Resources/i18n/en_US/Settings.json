@@ -1,0 +1,11 @@
+{
+	"fields": {
+		"companyFavicon": "Company Favicon"
+	},
+	"labels": {
+		"Alfred customs": "Alfred's settings"
+	},
+	"tooltips": {
+		"companyFavicon": "Upload a favicon for your EspoCRM instance."
+	}
+}

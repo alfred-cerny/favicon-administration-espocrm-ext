@@ -1,0 +1,13 @@
+{
+	"fields": {
+		"companyFavicon": {
+			"accept": [
+				".ico"
+			],
+			"maxFileSize": 10,
+			"tooltip": true,
+			"type": "file",
+			"view": "favicon-administration:views/settings/fields/company-favicon"
+		}
+	}
+}

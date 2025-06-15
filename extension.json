@@ -1,14 +1,15 @@
 {
-    "module": "{@name}",
-    "name": "{@nameLabel}",
-    "description": "{@description}",
-    "author": "{@author}",
-    "bundled": {@bundled},
-    "acceptableVersions": [
-        ">=9.1.0"
-    ],
-    "php": [
-        ">=8.2"
-    ],
-    "scripts": []
+	"acceptableVersions": [
+		">=8.0.0"
+	],
+	"author": "Alfred Cerny",
+	"bundled": false,
+	"description": "Allows administrators to set a custom favicon from the administration panel.",
+	"module": "FaviconAdministration",
+	"name": "favicon-administration",
+	"php": [
+		">=8.2"
+	],
+	"scripts": [
+	]
 }

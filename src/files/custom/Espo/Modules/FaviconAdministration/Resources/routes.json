@@ -1,0 +1,7 @@
+[
+    {
+        "actionClassName": "Espo\\Modules\\FaviconAdministration\\Api\\UpdateFavicon",
+        "method": "post",
+        "route": "/FaviconAdministration/action/updateFavicon"
+    }
+]
