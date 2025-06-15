@@ -3,7 +3,7 @@
 		"companyFavicon": "Company Favicon"
 	},
 	"labels": {
-		"Alfred customs": "Alfred's settings"
+		"Branding": "Branding"
 	},
 	"tooltips": {
 		"companyFavicon": "Upload a favicon for your EspoCRM instance."

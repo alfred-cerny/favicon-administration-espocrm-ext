@@ -1,0 +1,14 @@
+[
+	{
+		"tabBreak": true,
+		"tabLabel": "$label:Branding",
+		"rows": [
+			[
+				{
+					"name": "companyFavicon"
+				},
+				false
+			]
+		]
+	}
+]
